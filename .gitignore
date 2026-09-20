@@ -2,3 +2,5 @@ venv
 env
 *pycache*
 .env
+.DS_Store
+Thumbs.db
